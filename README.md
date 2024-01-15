@@ -1,4 +1,4 @@
-## Isonia Studios
+## Isonia Studisos
 Welcome to Isonia Studios! This is my side project where I'm building a custom game engine using C#, C++, and Vulkan.
 
 ### Project Overview
