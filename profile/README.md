@@ -7,4 +7,4 @@ Welcome to Isonia Studios! This is my side project where I'm building a custom g
 Feel free to explore and contribute!
 
 ### Stay in Touch
-Youtube: @IsoniaStudios
+* Youtube: @IsoniaStudios
